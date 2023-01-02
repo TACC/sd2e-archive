@@ -2,13 +2,12 @@
 permalink: /publications/
 title: "List of SD2 Publications"
 ---
-The following publications utilize SD2E or describe enablement of SD2E:
 
 Bartley BA, Choi K, Samineni M, Zundel Z, Nguyen T, Myers CJ, Sauro HM. pySBOL: a python package for genetic design automation and standardization. ACS synthetic biology. 2018 Nov 13;8(7):1515-8.
 
 Bryce D, Goldman RP, DeHaven M, Beal J, Bartley B, Nguyen TT, Walczak N, Weston M, Zheng G, Nowak J, Lee P, Stubbs J, Gaffney N, Vaughn MW, Myers CJ, Moseley RC, Haase S, Deckard A, Cummins B, Leiby N. Round Trip: An Automated Pipeline for Experimental Design, Execution, and Analysis. ACS Synthetic Biology. 2022 Jan 31;11(2):608-22.
 
-Cappello F, Sheng Di ANL PG. Visualization of scientific data lossy reduction error. InPosition Papers for the ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, and Communication 2022 Jan.
+Cappello F, Sheng Di ANL PG. Visualization of scientific data lossy reduction error. In Position Papers for the ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, and Communication 2022 Jan.
 
 Cummins B, Moseley RC, Deckard A, Weston M, Zheng G, Bryce D, Nowak J, Gameiro M, Gedeon T, Mischaikow K, Beal J, Johnson T, Vaughn M, Gaffney NI, Gopaulakrishnan S, Urrutia J, Goldman RP, Bartley B, Nguyen TT, Roehner N, Mitchell T, Vrana JD, Clowers KJ, Maheshri N, Becker D, Mikhalev E, Biggers V, Higa T, Mosqueda L, Haase SB. Computational prediction of synthetic circuit function across growth conditions. bioRxiv. 2022 Jan 1.
 
