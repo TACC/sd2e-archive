@@ -9,6 +9,8 @@ Bryce D, Goldman RP, DeHaven M, Beal J, Bartley B, Nguyen TT, Walczak N, Weston 
 
 Cappello F, Sheng Di ANL PG. Visualization of scientific data lossy reduction error. In Position Papers for the ASCR Workshop on Visualization for Scientific Discovery, Decision-Making, and Communication 2022 Jan.
 
+Carson JP, Fonner J, Vaughn M, Gaffney N, Brown T, Stubbs J, Rosenberg J, Tijerina S, Allen WJ, Ferlanti F, Urrutia J, Ho Ethan, Song J, Gopaulakrishnan S, Prochaska H, Chuah JY, Weston M, Sejnowski T, Harris K, Dahan M. Facilitating collaborative science through portals connected to high-performance computing. In Science Gateways 2023 Annual Conference. 2023.
+
 Cummins B, Moseley RC, Deckard A, Weston M, Zheng G, Bryce D, Nowak J, Gameiro M, Gedeon T, Mischaikow K, Beal J, Johnson T, Vaughn M, Gaffney NI, Gopaulakrishnan S, Urrutia J, Goldman RP, Bartley B, Nguyen TT, Roehner N, Mitchell T, Vrana JD, Clowers KJ, Maheshri N, Becker D, Mikhalev E, Biggers V, Higa T, Mosqueda L, Haase SB. Computational prediction of synthetic circuit function across growth conditions. bioRxiv. 2022 Jan 1.
 
 Cummins B, Vrana J, Moseley RC, Eramian H, Deckard A, Fontanarrosa P, Bryce D, Weston M, Zheng G, Nowak J, Motta FC, Eslami M, Layne K, Goldman RP, Myers CJ, Johnson T, Vaughn MW, Gaffney N, Urrutia J, Gopaulakrishnan S, Biggers V, Higa T, Mosqueda L, Gameiro M, Gedeon T, Mischaikow K, Beal J, Bartley B, Mitchell T, Nguyen TT, Roehner N, Haase SB. Robustness and reproducibility of simple and complex synthetic logic circuit designs using a DBTL loop. bioRxiv. 2022 Jan 1.
